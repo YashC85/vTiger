@@ -8,5 +8,11 @@ public class CreateOrganisation {
 	public void createOrgnisation() {
 		System.out.println("Creating Organisation...");
 	}
+	
+	@Test
+	
+	public void createOrgnisationWithName() {
+		System.out.println("Creating Organisation with Name...");
+	}
 
 }
